@@ -1,0 +1,8 @@
+.portada{
+    height: 29em;
+    width: 20em;
+}
+.portadasDePelis{
+    display: flex;
+    justify-content: center;
+}

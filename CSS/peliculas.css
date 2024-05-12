@@ -1,0 +1,13 @@
+img {
+    width: 20em;
+    height: 30em;
+    
+}
+article{
+    display: inline-block;
+    margin-inline: 3em;
+    
+}
+button{
+    justify-content: center;
+}
